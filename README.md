@@ -19,6 +19,18 @@ I’m a professional technician who likes to spends a bit of his free time codin
   </tr>
   <tr>
     <td align="center" width="60">
+      <a href="https://purewiki.org">
+        <img src="https://purewiki.org/pages/favicon.svg" width="32" height="32" alt="PureWiki.org">
+      </a>
+    </td>
+    <td>
+      <a href="https://purewiki.org" style="text-decoration: none; color: inherit;">
+        <strong>PureWiki.org</strong> — A Minimalist Flat-File Wiki
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
       <a href="https://simpletasks.eu">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=simpletasks.eu" width="32" height="32" alt="SimpleTasks">
       </a>
